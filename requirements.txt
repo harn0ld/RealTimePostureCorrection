@@ -1,0 +1,8 @@
+opencv-python
+numpy
+joblib
+mediapipe
+tkinter
+Pillow
+pygame
+
